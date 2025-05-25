@@ -1,0 +1,15 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: mcp-sample
+server:
+  port: 8080
+
+logging:
+  pattern:
+    console:
+
+
+
+
